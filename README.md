@@ -4,6 +4,8 @@ The Bus Ticket Booking Application is a dynamic and user-friendly web-based plat
 It aims to revolutionize the way travelers book bus tickets by providing a centralized hub for exploring bus routes, checking real-time seat availability, and 
 seamlessly reserving tickets for desired travel dates.
 
+Deployment Link - https://silly-empanada-16c72e.netlify.app/
+
 Features :-
 
 Explore Bus Routes: Users can easily browse through available bus routes to find the most convenient options for their journey.
